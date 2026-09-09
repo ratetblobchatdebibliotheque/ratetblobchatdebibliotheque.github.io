@@ -1,8 +1,9 @@
 baseURL = 'https://ratetblobchatdebibliotheque.github.io/'
 locale = 'zh-hk'
 title = '巴黎書蟲'
-theme = 'ananke'
+theme = 'XMin'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
