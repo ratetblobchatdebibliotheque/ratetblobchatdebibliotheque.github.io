@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://ratetblobchatdebibliotheque.github.io/'
+locale = 'zh-hk'
+title = '巴黎書蟲'
 theme = 'ananke'
 
 [caches]
